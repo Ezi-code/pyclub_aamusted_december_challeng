@@ -1,4 +1,4 @@
-# pyclub_aamusted_december_challeng
+# pyclub_aamusted_december_challenge
 This repo consist challenges that will help you to learn python by solving a problem each day.
 
 ## How to participate
