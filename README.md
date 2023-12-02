@@ -44,24 +44,4 @@ Day 27: Find the shortest path in a graph (Dijkstra's algorithm).\
 Day 28: Implement breadth-first search.\
 Day 29: Implement depth-first search.\
 Day 30: Implement the Fibonacci sequence.\
-Day 31: Handle exceptions in Python.\
-Day 32: Read and write to a file.\
-Day 33: Use regular expressions to validate an email.\
-Day 34: Web scraping with BeautifulSoup.\
-Day 35: Create a simple web application with Flask.\
-Day 36: Work with JSON data.\
-Day 37: Implement a basic REST API.\
-Day 38: Use a third-party API (e.g., OpenWeatherMap).\
-Day 39: Create a basic GUI application (e.g., with Tkinter).\
-Day 40: Explore virtual environments and package management.\
-Day 41: Introduction to object-oriented programming (OOP).\
-Day 42: Create a person class with name and age objects in Python.\
-Day 43: Inheritance and polymorphism.\
-Day 44: Exception handling in OOP.\
-Day 45: Decorators and closures.\
-Day 46: Context managers (with statement).\
-Day 47: Multithreading in Python.\
-Day 48: Multiprocessing in Python.\
-Day 49: Asynchronous programming with async/await.\
-Day 50: Unit testing in Python.\
-
+Day 31: Handle exceptions in Python.
