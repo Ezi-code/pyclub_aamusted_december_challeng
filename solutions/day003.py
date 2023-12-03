@@ -1,9 +1,17 @@
 # Ezi-code
+def calculate_area(base, height):
+    area = 0.5 * base * height
+    return area
 
-base = float(input('Enter base: '))
-height = float(input('Enter height: '))
 
-area = 0.5 * base * height
+def main():
+    try:
+        base = float(input("Enter base: "))
+        height = float(input("Enter height: "))
+        calculate_area(base, height)
+    except ValueError:
+        print("Invalid input! ")
 
-print('Area: ', area)
 
+if __name__ == "__main__":
+    main()
