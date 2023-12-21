@@ -12,7 +12,7 @@ class HashTable:
             if pair[0] == key:
                 pair[1] = value
                 return
-        self.table[index].append([key, value])
+        return self.table[index].append([key, value])
 
     def get(self, key):
         index = self._hash(key)

@@ -1,3 +1,5 @@
+# Ezi-code
+
 def find_missing_number(arr):
     n = len(arr) + 1
     expected_sum = (n * (n + 1)) // 2

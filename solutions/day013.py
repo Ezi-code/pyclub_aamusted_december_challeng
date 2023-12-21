@@ -1,3 +1,5 @@
+# Ezi-code
+
 def intersection(array1, array2):
     intersection = []
     for i in array1:
