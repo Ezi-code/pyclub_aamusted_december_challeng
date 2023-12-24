@@ -28,7 +28,7 @@ Day 11: Implement a stack.\
 Day 12: Implement a queue.\
 Day 13: Find the intersection of two lists.\
 Day 14: Remove duplicates from a list.\
-Day 15: Implement a linked list.\
+Day 15: Implement a linked list.\ 
 Day 16: Implement a binary search tree.\
 Day 17: Find the missing number in an array of 1 to N.\
 Day 18: Rotate an array.\
